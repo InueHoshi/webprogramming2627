@@ -27,11 +27,11 @@ function App() {
       <Header />
       <div className="main-wrapper">
         <main className="content-area">
-          {/* TODO 6 Routes 
+        
           <Routes>
             <Route path="/" element={<Beranda />} />
           </Routes>
-          */}
+          
         </main>
          <SideBar />
       </div>
