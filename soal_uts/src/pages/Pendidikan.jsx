@@ -1,6 +1,7 @@
 // TODO 14
 //  Buat component  function dengan nama Pendidikan
 function Pendidikan(){
+  return(
  <div>
       <h2 style={{ marginTop: 0 }}>Kurikulum & Pendidikan</h2>
       <p>
@@ -13,6 +14,7 @@ function Pendidikan(){
         <li>Jaringan Komputer dan Keamanan Siber</li>
       </ul>
     </div>
+  )
 }
 
 // lakukan commit "selesai TODO 14" dan push 
