@@ -17,5 +17,6 @@ function Pendidikan(){
   )
 }
 
+export default Pendidikan;
 // lakukan commit "selesai TODO 14" dan push 
 

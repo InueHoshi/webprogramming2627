@@ -18,4 +18,5 @@ return(
   )
 }
 
+export default Riset;
 // lakukan commit "selesai TODO 6" dan push 

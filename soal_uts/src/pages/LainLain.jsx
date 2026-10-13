@@ -14,4 +14,5 @@ return(
 )
 }
 
+export default LainLain;
 // 3. lakukan commit dan push 

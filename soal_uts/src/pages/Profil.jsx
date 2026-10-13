@@ -11,5 +11,6 @@ return(
   )
 }
 
+export default Profil;
 // lakukan commit "selesai TODO 15" dan push 
 
