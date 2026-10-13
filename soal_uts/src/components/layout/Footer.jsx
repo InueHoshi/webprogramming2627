@@ -2,7 +2,7 @@
 // 1. Buat component function dengan nama Footer
 function Footer() {
     return(
-        <footer className="footer-are">
+        <footer className="footer-area">
         <p>
         Copyright © Prodi Informatika | HTML5 | CSS | ReactJS Fundamentals
         </p>
