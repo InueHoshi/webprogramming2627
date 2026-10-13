@@ -15,7 +15,7 @@ import Profil from './Pages/Profil.jsx'
 import LainLain from './Pages/LainLain.jsx'
 import Mahasiswa from './Pages/Mahasiswa.jsx'
 import Pendidikan from './Pages/Pendidikan.jsx'
-import Riset from 
+import Riset from './Pages/Riset.jsx'
 // lakukan commit "selesai TODO 2" dan push 
 
 function App() {
