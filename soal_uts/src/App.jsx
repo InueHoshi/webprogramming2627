@@ -16,13 +16,15 @@ import LainLain from './Pages/LainLain.jsx'
 import Mahasiswa from './Pages/Mahasiswa.jsx'
 import Pendidikan from './Pages/Pendidikan.jsx'
 import Riset from './Pages/Riset.jsx'
+import NotFound from './Pages/NotFound.jsx'
+import Berita from './Pages/Berita.jsx'
 // lakukan commit "selesai TODO 2" dan push 
 
 function App() {
   return (
     
     <div className="container">
-      {/* TODO 3 Header */}
+      <Header />
       <div className="main-wrapper">
         <main className="content-area">
           {/* TODO 6 Routes 
