@@ -11,7 +11,7 @@ function Beranda(){
                 <em>Era Digital Sekarang</em> memerlukan lulusan yang mampu menguasai teknologi informasi dan komunikasi secara mendalam.
             </p>
         </div>
-    )
+    );
 }
 // 2. Struktur wajib di dalam return (bungkus dengan tag <div>):
 //    - Buat tag <h2> berisi teks "Halaman Beranda". Berikan inline style marginTop dengan nilai 0.

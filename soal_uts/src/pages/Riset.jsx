@@ -15,7 +15,7 @@ return(
         <br />- <strong>Cyber Security</strong>
       </p>
     </div>
-  )
+  );
 }
 
 export default Riset;

@@ -14,7 +14,7 @@ function Pendidikan(){
         <li>Jaringan Komputer dan Keamanan Siber</li>
       </ul>
     </div>
-  )
+  );
 }
 
 export default Pendidikan;

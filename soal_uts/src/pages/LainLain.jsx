@@ -11,7 +11,7 @@ return(
         Untuk informasi lebih lanjut, silakan hubungi bagian tata usaha program studi.
       </p>
     </div>
-)
+  );
 }
 
 export default LainLain;

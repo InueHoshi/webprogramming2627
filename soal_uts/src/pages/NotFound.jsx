@@ -6,7 +6,7 @@ const NotFound=()=>{
             <h1>404 - Halaman Tidak Ditemukan</h1>
             <p>Maaf, halaman yang dicari tidak tersedia</p>
         </div>
-    )
+    );
 }
 
 export default NotFound;

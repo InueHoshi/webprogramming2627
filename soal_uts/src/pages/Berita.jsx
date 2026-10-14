@@ -6,7 +6,7 @@ const Berita=()=>{
             <h1>Berita</h1>
             <p>Halaman Berita</p>
         </div>
-    )
+    );
 }
 
 export default Berita;
