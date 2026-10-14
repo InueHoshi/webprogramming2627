@@ -1,6 +1,6 @@
 // TODO 11
 // 1. Buat component function dengan nama SideBar
-function Sidebar(){
+export default function Sidebar(){
     return(
         <aside className="sidebar-area">
             <h3>Berita Terbaru</h3>

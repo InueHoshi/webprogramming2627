@@ -4,6 +4,8 @@ import { NavLink } from 'react-router-dom';
 // 2. Import gambar dari folder assets: header-bg.png beri nama bgGambar
 import bgGambar from './assets/header-bg.png';
 // 3. Buat component function dengan nama Header
+export default function Header (){
+    return(
 <Header
     className="header-area"
     style={{
@@ -20,6 +22,8 @@ import bgGambar from './assets/header-bg.png';
         <NavLink to="/">Beranda</NavLink>
     </nav>
 </Header>
+        )
+    }
 // 4. Struktur wajib di dalam return:
 //    - <header> dengan className="header-area" dan inline style backgroundImage url bgGambar, size cover, position center, repeat no-repeat.
 //    - Di dalamnya ada div className="header-text" berisi <h1>ProdiInformatika</h1> dan <p>Universitas Matana.</p>

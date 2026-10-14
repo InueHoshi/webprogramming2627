@@ -1,6 +1,6 @@
 // TODO 10
 // 1. Buat component function dengan nama Footer
-function Footer() {
+export default function Footer() {
     return(
         <footer className="footer-area">
         <p>
