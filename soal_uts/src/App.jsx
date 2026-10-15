@@ -10,14 +10,14 @@ import Footer from './components/layout/Footer.jsx';
 // lakukan commit "selesai TODO 1" dan push 
 
 // TODO 2  komponen Pages (Beranda, Profil, dll)
-import Beranda from './Pages/Beranda.jsx';
-import Profil from './Pages/Profil.jsx';
-import LainLain from './Pages/LainLain.jsx';
-import Mahasiswa from './Pages/Mahasiswa.jsx';
-import Pendidikan from './Pages/Pendidikan.jsx';
-import Riset from './Pages/Riset.jsx';
-import NotFound from './Pages/NotFound.jsx';
-import Berita from './Pages/Berita.jsx';
+import Beranda from './pages/Beranda.jsx';
+import Profil from './pages/Profil.jsx';
+import LainLain from './pages/LainLain.jsx';
+import Mahasiswa from './pages/Mahasiswa.jsx';
+import Pendidikan from './pages/Pendidikan.jsx';
+import Riset from './pages/Riset.jsx';
+import NotFound from './pages/NotFound.jsx';
+import Berita from './pages/Berita.jsx';
 // lakukan commit "selesai TODO 2" dan push 
 
 function App() {
