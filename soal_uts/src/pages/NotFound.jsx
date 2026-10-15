@@ -1,6 +1,6 @@
 import React from 'react'
 
-const NotFound=()=>{
+export default function NotFound(){
     return(
         <div>
             <h1>404 - Halaman Tidak Ditemukan</h1>
@@ -9,4 +9,3 @@ const NotFound=()=>{
     );
 }
 
-export default NotFound;

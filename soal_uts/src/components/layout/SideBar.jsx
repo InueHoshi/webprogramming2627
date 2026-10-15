@@ -20,7 +20,7 @@ export default function Sidebar(){
             </div>
 
             <br />
-
+            
             <h3> Pencarian </h3>
             <input 
             type="text"
@@ -28,7 +28,7 @@ export default function Sidebar(){
             style={{padding:"5px",width:"100%"}}
             />
         </aside>
-    )
+    );
 }
 // 2. Struktur wajib di dalam return:
 //    - Gunakan elemen <aside className="sidebar-area"> sebagai pembungkus utama.
