@@ -6,7 +6,7 @@ import bgGambar from './assets/header-bg.png';
 // 3. Buat component function dengan nama Header
 export default function Header (){
     return(
-<Header
+<header
     className="header-area"
     style={{
         backgroundImage:url(bgGambar),
@@ -21,7 +21,7 @@ export default function Header (){
     <nav className="nav-menu">
         <NavLink to="/">Beranda</NavLink>
     </nav>
-</Header>
+</header>
         )
     }
 // 4. Struktur wajib di dalam return:
