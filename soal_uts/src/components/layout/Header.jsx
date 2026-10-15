@@ -10,9 +10,9 @@ export default function Header (){
     className="header-area"
     style={{
         backgroundImage: `url(${bgGambar})`,
-        backgroundSize:'cover';
-        backgroundPosition:'center';
-        backgroundRepeat:'no-repeat';
+        backgroundSize:'cover',
+        backgroundPosition:'center',
+        backgroundRepeat:'no-repeat',
     }}
 >
     <div className="header-text">
