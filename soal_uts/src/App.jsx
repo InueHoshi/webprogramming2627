@@ -38,7 +38,7 @@ function App() {
             <Route path="/" element={<Pendidikan />} />
             <Route path="/" element={<Profil />} />
             <Route path="/" element={<Riset />} />
-            <Route path="/" element={<Array />} />
+            <Route path="/array" element={<Array />} />
           </Routes>
           
         </main>
