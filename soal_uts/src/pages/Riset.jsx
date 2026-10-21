@@ -17,4 +17,4 @@ export default function Riset() {
   );
 }
 // lakukan commit "selesai TODO 16" dan push 
-//selesai 16
+//selesai TODO 16
