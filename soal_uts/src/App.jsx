@@ -18,6 +18,7 @@ import Pendidikan from './pages/Pendidikan.jsx';
 import Riset from './pages/Riset.jsx';
 import NotFound from './pages/NotFound.jsx';
 import Berita from './pages/Berita.jsx';
+import Array from './pages/Array.jsx';
 // lakukan commit "selesai TODO 2" dan push 
 
 function App() {
@@ -37,6 +38,7 @@ function App() {
             <Route path="/" element={<Pendidikan />} />
             <Route path="/" element={<Profil />} />
             <Route path="/" element={<Riset />} />
+            <Route path="/" element={<Array />} />
           </Routes>
           
         </main>
