@@ -16,4 +16,5 @@ export default function Riset() {
     </div>
   );
 }
-// lakukan commit "selesai TODO 6" dan push 
+// lakukan commit "selesai TODO 16" dan push 
+//selesai 16
